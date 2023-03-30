@@ -1,0 +1,6 @@
+Class Java {
+public Static Void main(String [] args){
+System.out.Ptintln("Hello WOrld!")
+
+}
+}
